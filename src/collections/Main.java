@@ -1,4 +1,4 @@
-package main;
+package collections;
 
 public class Main {
  public static void main(String[] args) {
@@ -7,7 +7,9 @@ public class Main {
 			 "Олег",
 			 "Валя",
 			 "Коля",
-			 "Петро"
+			 "Петро",
+			 "Василь",
+			 "Хведя",
 	 };
 	 
 	 String[] second = new String[employees.length + 1];
